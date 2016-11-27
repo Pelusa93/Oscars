@@ -1,2 +1,2 @@
 # Oscars
-Proyecto de base de datos I. UCAB. Profesora Lucia Cardoso
+Proyecto de Base de Datos I. UCAB. Profesora Lucia Cardoso
