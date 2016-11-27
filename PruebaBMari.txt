@@ -1,2 +1,7 @@
 Esta es una prueba
+<<<<<<< HEAD
 Hola es mari
+=======
+Esto lo escribo yo Rama
+Esto lo escribo yo Rama por 2d vez
+>>>>>>> abd2cebb296905f3642fb4f7f1081fe6df6c527e
